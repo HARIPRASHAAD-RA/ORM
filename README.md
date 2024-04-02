@@ -24,11 +24,14 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
 
 Include the screenshot of your admin page.
+
+
+![image](https://github.com/HARIPRASHAAD-RA/ORM/assets/164654451/5bf7faa6-a7f9-4a8d-ae2a-b0d92862baf8)
 
 
 ## RESULT
