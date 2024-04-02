@@ -33,13 +33,15 @@ from django.db import models
 
 from django.contrib import admin
   from .models import Employees
-  admin.site.register(Employees)```
+  admin.site.register(Employees)
+```
     
 
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![image](https://github.com/HARIPRASHAAD-RA/ORM/assets/164654451/105955e9-9462-4c1f-9a7e-a28bccc5f83b)
+![image](https://github.com/HARIPRASHAAD-RA/ORM/assets/164654451/19d848c0-e9b0-45da-8b8a-d0022a981f16)
 
 
 
