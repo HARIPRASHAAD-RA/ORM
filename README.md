@@ -24,7 +24,6 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 '''from django.db import models
-  # Create your models here.
   class Employees(models.Model):
     empid=models.IntegerField()
     empname=models.CharField(max_length=30)
